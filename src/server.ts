@@ -3,7 +3,7 @@ import * as debug from "debug";
 import Express from "./config/express";
 /*--------  Start App  --------*/
 
-const port = normalizePort(process.env.PORT || 443);
+const port = normalizePort(process.env.PORT || 3000);
 Express.set("port", port);
 
 const server = http.createServer(Express);

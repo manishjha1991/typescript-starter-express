@@ -12,6 +12,7 @@ This starter is Made of express, typescript and mongoose application, designed f
 ```sh
     npm install          <= install all the npm Dependencies
     npm run dev          <= start the Nodemon and watch for changes.
+    http://localhost:3000  <= Check Server
 ```
 
 ## Directory Structure
