@@ -1,6 +1,6 @@
-# MDM application with Express, Typescript, Mongoose
+# Boilerplate Express, Typescript, Mongoose
 
-This project is Made of express, typescript and mongoose application, designed for Restful API's,
+This starter is Made of express, typescript and mongoose application, designed for Restful API's,
 
 ## Prerequisites
 
@@ -36,6 +36,8 @@ STRUCTURE
     ├── tsconfig.json
     ├── README.md
 ```
+
+-[] Add .env file.
 
 - [ ] Add JWT based authentication
 
