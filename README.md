@@ -37,9 +37,9 @@ STRUCTURE
     ├── README.md
 ```
 
--[] Add .env file.
+- [ ] Add .env file .
 
-- [ ] Add JWT based authentication
+- [ ] Add JWT based authentication .
 
 ## License
 
